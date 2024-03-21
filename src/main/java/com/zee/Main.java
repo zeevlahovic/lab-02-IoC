@@ -1,8 +1,8 @@
-package com.cydeo;
+package com.zee;
 
-import com.cydeo.account.Current;
-import com.cydeo.account.Saving;
-import com.cydeo.config.Config;
+import com.zee.account.Current;
+import com.zee.account.Saving;
+import com.zee.config.Config;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

@@ -1,6 +1,7 @@
-package com.cydeo.account;
+package com.zee.account;
 
-import com.cydeo.Currency;
+import com.zee.Currency;
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -9,6 +10,7 @@ import java.util.UUID;
 
 @Getter
 @Setter
+@AllArgsConstructor
 public class Current {
 
     private Currency currency;
